@@ -38,7 +38,7 @@
 - Node npm installated (https://docs.npmjs.com/cli/install)
 - Angular installed (open command prompt as administrator and run the following command:  npm install -g @angular/cli)
 ### Without installation
-- Unzip node_modules.rar file to GithubRepository\Client\gethubrepository.client folder
+- Unzip node_modules.rar file (from https://drive.google.com/open?id=1Shj2JJNSGelg4ktLLfxu-Oq5wfkzzKEL) to GithubRepository\Client\gethubrepository.client folder
 ### Run application
 - Open command prompt as administrator
 - Navigate to Client\gethubrepository.client folder (use cd /d command)
