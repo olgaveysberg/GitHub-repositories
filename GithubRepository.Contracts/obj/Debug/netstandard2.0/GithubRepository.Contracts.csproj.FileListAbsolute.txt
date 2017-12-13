@@ -1,0 +1,9 @@
+D:\GithubRepository\GithubRepository.Contracts\bin\Debug\netstandard2.0\GithubRepository.Contracts.deps.json
+D:\GithubRepository\GithubRepository.Contracts\bin\Debug\netstandard2.0\GithubRepository.Contracts.dll
+D:\GithubRepository\GithubRepository.Contracts\obj\Debug\netstandard2.0\GithubRepository.Contracts.csproj.CoreCompileInputs.cache
+D:\GithubRepository\GithubRepository.Contracts\obj\Debug\netstandard2.0\GithubRepository.Contracts.AssemblyInfoInputs.cache
+D:\GithubRepository\GithubRepository.Contracts\obj\Debug\netstandard2.0\GithubRepository.Contracts.AssemblyInfo.cs
+D:\GithubRepository\GithubRepository.Contracts\bin\Debug\netstandard2.0\GithubRepository.Contracts.pdb
+D:\GithubRepository\GithubRepository.Contracts\obj\Debug\netstandard2.0\GithubRepository.Contracts.dll
+D:\GithubRepository\GithubRepository.Contracts\obj\Debug\netstandard2.0\GithubRepository.Contracts.pdb
+D:\GithubRepository\GithubRepository.Contracts\obj\Debug\netstandard2.0\GithubRepository.Contracts.csprojResolveAssemblyReference.cache

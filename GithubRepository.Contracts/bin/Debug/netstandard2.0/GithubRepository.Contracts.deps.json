@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "a85395172af42ffac77e5eacdd4a9c8daa8a7d3b"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "GithubRepository.Contracts/1.0.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.0",
+          "Octokit": "0.28.0"
+        },
+        "runtime": {
+          "GithubRepository.Contracts.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Octokit/0.28.0": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.0"
+        },
+        "runtime": {
+          "lib/netstandard1.1/Octokit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GithubRepository.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+      "path": "netstandard.library/2.0.0",
+      "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
+    },
+    "Octokit/0.28.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m0xX+VU5DXEfdmrrKwHSJ6O1AtCE9Pzqs79JWqOxDH/cBLOQeo7ZAK3T/Gfwk/E6UTtagJl7liBAIhBni1kECg==",
+      "path": "octokit/0.28.0",
+      "hashPath": "octokit.0.28.0.nupkg.sha512"
+    }
+  }
+}

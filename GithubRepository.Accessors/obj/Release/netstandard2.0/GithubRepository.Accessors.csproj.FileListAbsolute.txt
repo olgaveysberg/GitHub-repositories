@@ -1,0 +1,11 @@
+D:\GithubRepository\GithubRepository.Accessors\bin\Release\netstandard2.0\GithubRepository.Accessors.deps.json
+D:\GithubRepository\GithubRepository.Accessors\bin\Release\netstandard2.0\GithubRepository.Accessors.dll
+D:\GithubRepository\GithubRepository.Accessors\bin\Release\netstandard2.0\GithubRepository.Accessors.pdb
+D:\GithubRepository\GithubRepository.Accessors\bin\Release\netstandard2.0\GithubRepository.Contracts.dll
+D:\GithubRepository\GithubRepository.Accessors\bin\Release\netstandard2.0\GithubRepository.Contracts.pdb
+D:\GithubRepository\GithubRepository.Accessors\obj\Release\netstandard2.0\GithubRepository.Accessors.csprojResolveAssemblyReference.cache
+D:\GithubRepository\GithubRepository.Accessors\obj\Release\netstandard2.0\GithubRepository.Accessors.csproj.CoreCompileInputs.cache
+D:\GithubRepository\GithubRepository.Accessors\obj\Release\netstandard2.0\GithubRepository.Accessors.AssemblyInfoInputs.cache
+D:\GithubRepository\GithubRepository.Accessors\obj\Release\netstandard2.0\GithubRepository.Accessors.AssemblyInfo.cs
+D:\GithubRepository\GithubRepository.Accessors\obj\Release\netstandard2.0\GithubRepository.Accessors.dll
+D:\GithubRepository\GithubRepository.Accessors\obj\Release\netstandard2.0\GithubRepository.Accessors.pdb

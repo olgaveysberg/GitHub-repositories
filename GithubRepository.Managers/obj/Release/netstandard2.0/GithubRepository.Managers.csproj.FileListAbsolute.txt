@@ -1,0 +1,13 @@
+D:\GithubRepository\GithubRepository.Managers\bin\Release\netstandard2.0\GithubRepository.Managers.deps.json
+D:\GithubRepository\GithubRepository.Managers\bin\Release\netstandard2.0\GithubRepository.Managers.dll
+D:\GithubRepository\GithubRepository.Managers\bin\Release\netstandard2.0\GithubRepository.Managers.pdb
+D:\GithubRepository\GithubRepository.Managers\bin\Release\netstandard2.0\GithubRepository.Accessors.dll
+D:\GithubRepository\GithubRepository.Managers\bin\Release\netstandard2.0\GithubRepository.Contracts.dll
+D:\GithubRepository\GithubRepository.Managers\bin\Release\netstandard2.0\GithubRepository.Accessors.pdb
+D:\GithubRepository\GithubRepository.Managers\bin\Release\netstandard2.0\GithubRepository.Contracts.pdb
+D:\GithubRepository\GithubRepository.Managers\obj\Release\netstandard2.0\GithubRepository.Managers.csprojResolveAssemblyReference.cache
+D:\GithubRepository\GithubRepository.Managers\obj\Release\netstandard2.0\GithubRepository.Managers.csproj.CoreCompileInputs.cache
+D:\GithubRepository\GithubRepository.Managers\obj\Release\netstandard2.0\GithubRepository.Managers.AssemblyInfoInputs.cache
+D:\GithubRepository\GithubRepository.Managers\obj\Release\netstandard2.0\GithubRepository.Managers.AssemblyInfo.cs
+D:\GithubRepository\GithubRepository.Managers\obj\Release\netstandard2.0\GithubRepository.Managers.dll
+D:\GithubRepository\GithubRepository.Managers\obj\Release\netstandard2.0\GithubRepository.Managers.pdb
